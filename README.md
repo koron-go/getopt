@@ -2,7 +2,6 @@
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/koron-go/getopt)](https://pkg.go.dev/github.com/koron-go/getopt)
 [![Actions/Go](https://github.com/koron-go/getopt/workflows/Go/badge.svg)](https://github.com/koron-go/getopt/actions?query=workflow%3AGo)
-[![Go Report Card](https://goreportcard.com/badge/github.com/koron-go/getopt)](https://goreportcard.com/report/github.com/koron-go/getopt)
 
 Package getopt provides the good old getopt function as a Go iterator.
 
